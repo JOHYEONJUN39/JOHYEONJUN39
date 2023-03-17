@@ -2,3 +2,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOHEYONJUN&show_icons=true&theme=tokyonight)
+
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOHEYONJUN&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=5"/>
