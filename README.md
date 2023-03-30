@@ -60,7 +60,16 @@
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    
+<br>
 
+- **Notion**:
+	
+	
+	
+	<a href="https://www.notion.so/invite/5a10ce67ee35df059e5282af2193c8a13181c75d" target="_blank">
+	<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt=linkedin/ >
+	</a>
 
 </p>
 
