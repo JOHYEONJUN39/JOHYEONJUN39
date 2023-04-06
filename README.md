@@ -81,10 +81,10 @@
 <br>
 
 <div align="center">
-
+<!-- 102,125182,E100FF 솜사탕 색 -->
 <a href="https://github.com/JOHYEONJUN39">
-  <img src="https://github-readme-stats.vercel.app/api?username=JOHYEONJUN39&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JOHYEONJUN39&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="320"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JOHYEONJUN39&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=39c5bb&icon_color=39c5bb&text_color=D3D3D3&bg_color=0,000000,3b3b3b" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JOHYEONJUN39&show_icons=true&locale=en&layout=compact&line_height=20&title_color=39c5bb&icon_color=39c5bb&text_color=D3D3D3&bg_color=0,000000,3b3b3b&text_weight=bold" width="320"/>
 
 </a>
 </div>
