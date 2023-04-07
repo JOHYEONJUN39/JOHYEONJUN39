@@ -100,6 +100,22 @@
 </a>
 </div>
 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
+
+<div align='center'>
+
+## <b>✨向かい風に立ち向かえる奴じゃなきゃ追い風だって押し甲斐がない</b>
+
+</div>
+<br>
+<br>
+<br>
+<br>
+
 <!-- 지렁이 -->
 <!-- <p align="center">
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
