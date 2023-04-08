@@ -21,6 +21,7 @@
 - I am currently in the AI/software class at Yeongjin College.
 - Currently learning Web Development by Self
 - What I'm focusing on right now is web Front-end development.
+- Recently, I am taking ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) Web Developer Bootcamp 2023 course.
 
 <br><br>
 
