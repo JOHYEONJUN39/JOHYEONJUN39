@@ -91,19 +91,34 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+  
+  
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JOHYEONJUN39&theme=dark&hide_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JOHYEONJUN39&theme=dark&hide_border=true" />
+
+
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JOHYEONJUN39&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
 <br>
 
-<div align="center">
-<!-- 102,125182,E100FF 솜사탕 색 -->
-<a href="https://github.com/JOHYEONJUN39">
-  <img src="https://github-readme-stats.vercel.app/api?username=JOHYEONJUN39&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=39c5bb&icon_color=39c5bb&text_color=D3D3D3&bg_color=0,000000,3b3b3b" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JOHYEONJUN39&show_icons=true&locale=en&layout=compact&line_height=20&title_color=39c5bb&icon_color=39c5bb&text_color=D3D3D3&bg_color=0,000000,3b3b3b&text_weight=bold" width="320"/>
 
-</a>
-</div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <br>
 <br>
 <br>
