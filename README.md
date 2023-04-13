@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm HyeonJun Jo</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm HyeonJun Jo</b><img src="https://camo.githubusercontent.com/a00365181dee3899c9f03eb2680300fc3ee9bd15d5e68eadd436c829d5ecf2d4/68747470733a2f2f632e74656e6f722e636f6d2f665967393171427044646741414141692f626f6e676f2d6361742d7472616e73706172656e742e676966" width="100" height="60">
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi!+,+I'm+HeyonJun+Jo!;Self-taught+Front-End+Developer,;"></a>
