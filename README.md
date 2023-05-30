@@ -11,10 +11,10 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://i.ibb.co/D90hVZt/IMG-1030.gif" width = 250px></picture>
-<!-- 	<picture> <img align="right" src="http://gifimgs.com/animations/anime/rurouni-kenshin/rurouni_kenshin_6.gif" width = 250px></picture> -->
+<picture> <img align="right" src="https://i.ibb.co/m8G0m15/IMG-1030-2.gif" width=250px> </picture>
+<picture> <img align="right" src="http://gifimgs.com/animations/anime/rurouni-kenshin/rurouni_kenshin_6.gif" width = 250px></picture>
 
 <br>
 
