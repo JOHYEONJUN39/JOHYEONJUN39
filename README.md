@@ -26,7 +26,7 @@
 	- Web Developer Bootcamp 2023 (51% complete)
 	- モダンJavaScriptの基礎から始める挫折しないためのReact入門 (85% complete)
 	- データ分析入門 -データベースのデータをビジネスパーソンが現場で活用するためのSQL (65% complete)
-	- プログラミング基礎の基礎 (86% complete)
+	- プログラミング基礎の基礎(Complete) <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-033ce319-fdb1-4a51-a211-c88c5588b54c.jpg?v=1687201608000" target="_blank"><img src="https://img.shields.io/badge/証明書-A435F0?style=badge&logoColor=white" /></a>
 
 <br><br>
 
