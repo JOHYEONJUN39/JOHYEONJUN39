@@ -23,9 +23,9 @@
 - Currently learning Web Development by Self
 - What I'm focusing on right now is web Front-end development.
 - Here is a list of ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) courses I am currently taking :
-	- Web Developer Bootcamp 2023 (51% complete)
+	- Web Developer Bootcamp 2023 (59% complete)
 	- モダンJavaScriptの基礎から始める挫折しないためのReact入門 (85% complete)
-	- データ分析入門 -データベースのデータをビジネスパーソンが現場で活用するためのSQL (65% complete)
+	- データ分析入門 -データベースのデータをビジネスパーソンが現場で活用するためのSQL (70% complete)
 	- プログラミング基礎の基礎(Complete) <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-033ce319-fdb1-4a51-a211-c88c5588b54c.jpg?v=1687201608000" target="_blank"><img src="https://img.shields.io/badge/証明書-A435F0?style=badge&logoColor=white" /></a>
 
 <br><br>
