@@ -27,10 +27,11 @@
 	- モダンJavaScriptの基礎から始める挫折しないためのReact入門 (complete)
 	<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-8cb17922-c3da-4330-b183-3382c85647a8.jpg?v=1689161468000"
 	target="_blank"><img src="https://img.shields.io/badge/証明書-A435F0?style=badge&logoColor=white" /></a>
-	- データ分析入門 -データベースのデータをビジネスパーソンが現場で活用するためのSQL (70% complete)
+	- データ分析入門 -データベースのデータをビジネスパーソンが現場で活用するためのSQL (complete)
 	- プログラミング基礎の基礎(Complete)
 	<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-033ce319-fdb1-4a51-a211-c88c5588b54c.jpg?v=1687201608000"
 	target="_blank"><img src="https://img.shields.io/badge/証明書-A435F0?style=badge&logoColor=white" /></a>
+ 	- React Native, Firebase, Expo でアプリ開発をゼロから始めよう！ (24% complete)
 
 <br><br>
 
@@ -56,10 +57,13 @@
 	![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 	![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 	![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-	![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+	![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 	![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+	![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+	![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+	![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
     
 <br>
 
