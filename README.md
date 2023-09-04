@@ -13,8 +13,7 @@
 	
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://i.ibb.co/m8G0m15/IMG-1030-2.gif" width=250px> </picture>
-<picture> <img align="right" src="http://gifimgs.com/animations/anime/rurouni-kenshin/rurouni_kenshin_6.gif" width = 250px></picture>
+<picture> <img align="right" src="https://i.namu.wiki/i/VSBATegF0OtodUEtm_ONQRyuvPq33Leo6Vxi6-stDjU9Z7BqO-iFlBd1E_B-NtkSxXdce_qNkvjdX1PDLRNPhQ.gif" width=500px> </picture>
 
 <br>
 
@@ -32,7 +31,7 @@
 	<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-033ce319-fdb1-4a51-a211-c88c5588b54c.jpg?v=1687201608000"
 	target="_blank"><img src="https://img.shields.io/badge/証明書-A435F0?style=badge&logoColor=white" /></a>
  	- React Native, Firebase, Expo でアプリ開発をゼロから始めよう！ (24% complete)
-
+<picture> <img align="right" src="http://gifimgs.com/animations/anime/rurouni-kenshin/rurouni_kenshin_6.gif" width = 250px></picture>
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
