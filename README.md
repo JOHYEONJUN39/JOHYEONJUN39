@@ -12,8 +12,8 @@
 
 	
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<picture> <img align="right" src="https://i.namu.wiki/i/VSBATegF0OtodUEtm_ONQRyuvPq33Leo6Vxi6-stDjU9Z7BqO-iFlBd1E_B-NtkSxXdce_qNkvjdX1PDLRNPhQ.gif" width=300px> </picture>
 
-<picture> <img align="right" src="https://i.namu.wiki/i/VSBATegF0OtodUEtm_ONQRyuvPq33Leo6Vxi6-stDjU9Z7BqO-iFlBd1E_B-NtkSxXdce_qNkvjdX1PDLRNPhQ.gif" width=500px> </picture>
 
 <br>
 
