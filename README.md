@@ -32,7 +32,7 @@
 	target="_blank"><img src="https://img.shields.io/badge/証明書-A435F0?style=badge&logoColor=white" /></a>
  	- React Native, Firebase, Expo でアプリ開発をゼロから始めよう！ (24% complete)
 	- PHPからLalavelまでサーバーサイドをとことんやってみよう (62% complete)
-	- AWS : ゼロから舌戦するAmazon Web Services (10% complete)
+	- AWS : ゼロから実践するAmazon Web Services (10% complete)
 <picture> <img align="right" src="http://gifimgs.com/animations/anime/rurouni-kenshin/rurouni_kenshin_6.gif" width = 250px></picture>
 <br><br>
 
