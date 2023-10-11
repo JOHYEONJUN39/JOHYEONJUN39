@@ -1,19 +1,18 @@
 
-<h1 align="center"><img src="https://camo.githubusercontent.com/a00365181dee3899c9f03eb2680300fc3ee9bd15d5e68eadd436c829d5ecf2d4/68747470733a2f2f632e74656e6f722e636f6d2f665967393171427044646741414141692f626f6e676f2d6361742d7472616e73706172656e742e676966" width="160" height="120">
+
+
+https://github.com/JOHYEONJUN39/JOHYEONJUN39/assets/93760720/7d516c7a-1e4e-4e04-8eb4-d2de2f904e18
+
+
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi!+,+I'm+HyeonJun+Jo!;Self-taught+Front-End+Developer,;"></a>
 </p>
 
-
 <br>
-
-
-
 	
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<picture> <img align="right" src="https://i.namu.wiki/i/VSBATegF0OtodUEtm_ONQRyuvPq33Leo6Vxi6-stDjU9Z7BqO-iFlBd1E_B-NtkSxXdce_qNkvjdX1PDLRNPhQ.gif" width=300px> </picture>
-
 
 <br>
 
@@ -151,11 +150,6 @@
 
 
 
-
-<br>
-<br>
-<br>
-
 <div align='center'>
 
 ## <b>✨正解でも間違いでもそれが分かるのはどうせ未来</b>
@@ -165,74 +159,3 @@
 <br>
 <br>
 <br>
-<br>
-
-<!-- 지렁이 -->
-<!-- <p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p> -->
-
-<!-- 
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li> -->
-	
-</ul>
-</div>
-
-<!-- <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022 -->
