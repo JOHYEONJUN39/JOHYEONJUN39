@@ -154,6 +154,7 @@ https://github.com/JOHYEONJUN39/JOHYEONJUN39/assets/93760720/7d516c7a-1e4e-4e04-
 
 ## <b>✨正解でも間違いでもそれが分かるのはどうせ未来</b>
 ## <b>✨癒しやゆとりの逆、逆境へ</b>
+## <b>✨天下一への近道は地道</b>
 
 </div>
 <br>
