@@ -126,27 +126,21 @@ https://github.com/JOHYEONJUN39/JOHYEONJUN39/assets/93760720/7d516c7a-1e4e-4e04-
   
   
 <table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JOHYEONJUN39&theme=dark&hide_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JOHYEONJUN39&theme=dark&hide_border=true" />
-
-
-  
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JOHYEONJUN39&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
+ <tr border="0">
+  <td width="50%" align="center">
+   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JOHYEONJUN39&theme=dark&hide_icons=true&count_private=true" />
+   <br></br>
+   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JOHYEONJUN39&theme=dark&hide_border=true" />
   </td>
-</tr>
+
+  <td width="50%" align="center">
+   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JOHYEONJUN39&hide=scss,css,html&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=30"/>
+	  
+  </td>
+ </tr>
 </table>
 
 <br>
-
 
 
 
