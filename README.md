@@ -135,8 +135,12 @@ https://github.com/JOHYEONJUN39/JOHYEONJUN39/assets/93760720/7d516c7a-1e4e-4e04-
 
   <td width="50%" align="center">
    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JOHYEONJUN39&hide=scss,css,html&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=30"/>
-	  
+  <br></br>
+  <a href="https://wakatime.com/@a38a5fe1-ffd7-45c4-b03f-95ecbb413165">
+		<img src="https://wakatime.com/badge/user/a38a5fe1-ffd7-45c4-b03f-95ecbb413165.svg" alt="no Image" />
+	</a>
   </td>
+  
  </tr>
 </table>
 
