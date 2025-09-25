@@ -73,17 +73,30 @@ https://github.com/JOHYEONJUN39/JOHYEONJUN39/assets/93760720/7d516c7a-1e4e-4e04-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOHYEONJUN39&theme=dark&hide_border=true" width="400px" /><br/>
-        <img src="https://github-readme-stats.vercel.app/api?username=JOHYEONJUN39&theme=dark&hide_icons=true&count_private=true&hide_border=true" width="400px" />
+      <td align="center" valign="top" width="50%">
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=JOHYEONJUN39&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile" />
+        </div>
       </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JOHYEONJUN39&hide=scss,css,html&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=30" width="400px" />
+      <td align="center" valign="top" width="50%">
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JOHYEONJUN39&show_icons=true&locale=en&layout=compact&theme=radical" />
+        </div>
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <div align="center" style="width:100%;">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JOHYEONJUN39&theme=github_dark" 
+      width="81.5%" 
+      alt="profile details"
+    />
+  </div>
 
   <br/>
 
@@ -96,7 +109,6 @@ https://github.com/JOHYEONJUN39/JOHYEONJUN39/assets/93760720/7d516c7a-1e4e-4e04-
 ---
 
 ## ✨ 正解でも間違いでもそれが分かるのはどうせ未来  
-## ✨ 天下一への近道は地道
 
 ---
 
