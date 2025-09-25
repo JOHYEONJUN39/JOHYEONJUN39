@@ -93,7 +93,7 @@ https://github.com/JOHYEONJUN39/JOHYEONJUN39/assets/93760720/7d516c7a-1e4e-4e04-
   <div align="center" style="width:100%;">
     <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JOHYEONJUN39&theme=github_dark" 
-      width="100%" 
+      width="98.5%" 
       alt="profile details"
     />
   </div>
