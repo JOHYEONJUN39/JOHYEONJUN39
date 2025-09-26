@@ -3,7 +3,7 @@ https://github.com/JOHYEONJUN39/JOHYEONJUN39/assets/93760720/7d516c7a-1e4e-4e04-
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi!+,+I'm+HyeonJun+Jo!;Now+growing+as+a+Full-Stack+Engineer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=39c5bb&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi!+,+I'm+HyeonJun+Jo!;Now+growing+as+a+Full-Stack+Engineer">
   </a>
 </p>
 
@@ -77,17 +77,17 @@ https://github.com/JOHYEONJUN39/JOHYEONJUN39/assets/93760720/7d516c7a-1e4e-4e04-
     <tr>
       <td align="center" valign="top" width="50%">
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=JOHYEONJUN39&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile" />
+          <img src="https://github-readme-stats.vercel.app/api?username=JOHYEONJUN39&show_icons=true&count_private=true&bg_color=000000&title_color=39c5bb&text_color=c9d1d9&icon_color=39c5bb&border_color=30363d&border_radius=20&include_all_commits=true&rank_icon=percentile" />
         </div>
       </td>
       <td align="center" valign="top" width="50%">
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JOHYEONJUN39&show_icons=true&locale=en&layout=compact&theme=radical" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JOHYEONJUN39&layout=compact&bg_color=000000&title_color=39c5bb&text_color=c9d1d9&border_color=30363d" />
         </div>
       </td>
     </tr>
   </table>
-
+  
   <br/>
 
   <div align="center" style="width:100%;">
