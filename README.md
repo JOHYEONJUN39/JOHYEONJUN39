@@ -53,6 +53,10 @@ https://github.com/JOHYEONJUN39/JOHYEONJUN39/assets/93760720/7d516c7a-1e4e-4e04-
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981.svg?style=for-the-badge&logo=rockylinux&logoColor=white)
 
+### 🤖 AI
+![Cursor](https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)  
+
 ### 🎨 Design
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=Microsoft+PowerPoint&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
