@@ -13,7 +13,7 @@ https://github.com/JOHYEONJUN39/JOHYEONJUN39/assets/93760720/7d516c7a-1e4e-4e04-
 - 🎓 AI/Software major, Yeongjin College — graduated!
 - 💻 Full-Stack Engineer based in Japan 🇯🇵
 - 🧸 Collector of plushies, figures, and good vibes
-- 🎤 Karaoke enthusiast — mic in one hand, heart on sleeve
+- ☺️ My hobbies are 🎤karaoke and 🧶knitting
 
 <img align="right" src="http://gifimgs.com/animations/anime/rurouni-kenshin/rurouni_kenshin_6.gif" width="250px"/>
 
@@ -29,7 +29,7 @@ https://github.com/JOHYEONJUN39/JOHYEONJUN39/assets/93760720/7d516c7a-1e4e-4e04-
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### CSS
+### 🎨 CSS
 ![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-0081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
@@ -45,6 +45,8 @@ https://github.com/JOHYEONJUN39/JOHYEONJUN39/assets/93760720/7d516c7a-1e4e-4e04-
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🧰 Tools
+![Cursor](https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
