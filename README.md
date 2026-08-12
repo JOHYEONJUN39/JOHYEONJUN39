@@ -127,7 +127,12 @@ https://github.com/JOHYEONJUN39/JOHYEONJUN39/assets/93760720/7d516c7a-1e4e-4e04-
 
 <div align="center">
 
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JOHYEONJUN39&bg_color=00000000&color=39c5bb&line=39c5bb&point=ffffff&area=true&area_color=39c5bb&hide_border=true&radius=8" />
+  <img height="180em" src="https://github-readme-stats-lyart-three-35.vercel.app/api?username=JOHYEONJUN39&show_icons=true&include_all_commits=true&rank_icon=percentile&hide_border=true&bg_color=00000000&title_color=39c5bb&text_color=8b949e&icon_color=39c5bb&ring_color=39c5bb" />
+  <img height="180em" src="https://github-readme-stats-lyart-three-35.vercel.app/api/top-langs?username=JOHYEONJUN39&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=39c5bb&text_color=8b949e" />
+
+  <br/><br/>
+
+  <img width="98%" src="https://github-readme-activity-graph-seven-mu.vercel.app/graph?username=JOHYEONJUN39&bg_color=00000000&color=39c5bb&line=39c5bb&point=ffffff&area=true&area_color=39c5bb&hide_border=true&radius=8" />
 
   <br/>
 
@@ -145,7 +150,8 @@ https://github.com/JOHYEONJUN39/JOHYEONJUN39/assets/93760720/7d516c7a-1e4e-4e04-
 
 <!-- ============ QUOTE ============ -->
 <div align="center">
-  <h3><i>✨正解でも間違いでもそれが分かるのはどうせ未来</i></h3>
+  <h3>✨</h3>
+  <h3><i>正解でも間違いでもそれが分かるのはどうせ未来</i></h3>
   <br/>
 </div>
 
