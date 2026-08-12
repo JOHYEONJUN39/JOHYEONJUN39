@@ -11,6 +11,9 @@
   <img src="https://img.shields.io/badge/Location-Japan-39c5bb?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0b1120" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack-39c5bb?style=flat-square&logo=htmx&logoColor=white&labelColor=0b1120" />
   <img src="https://komarev.com/ghpvc/?username=JOHYEONJUN39&label=Profile+Views&color=39c5bb&style=flat-square" />
+  <a href="https://wakatime.com/@a38a5fe1-ffd7-45c4-b03f-95ecbb413165">
+    <img src="https://wakatime.com/badge/user/a38a5fe1-ffd7-45c4-b03f-95ecbb413165.svg?style=flat-square&color=39c5bb&label=Coding%20Time&labelColor=0b1120" alt="Wakatime" />
+  </a>
 </p>
 
 <!-- ============ TYPING ============ -->
@@ -87,8 +90,16 @@ https://github.com/JOHYEONJUN39/JOHYEONJUN39/assets/93760720/7d516c7a-1e4e-4e04-
   <tr>
     <td align="right" valign="middle"><b>🤖&nbsp;AI</b></td>
     <td valign="middle">
-      <img src="https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white" />
       <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+      <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/cmux-1C1C1C?style=for-the-badge&logo=ghostty&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>☁️&nbsp;Cloud&nbsp;&&nbsp;CI</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -138,20 +149,13 @@ https://github.com/JOHYEONJUN39/JOHYEONJUN39/assets/93760720/7d516c7a-1e4e-4e04-
 
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JOHYEONJUN39&theme=github_dark" alt="profile details" />
 
-  <br/><br/>
-
-  <a href="https://wakatime.com/@a38a5fe1-ffd7-45c4-b03f-95ecbb413165">
-    <img src="https://wakatime.com/badge/user/a38a5fe1-ffd7-45c4-b03f-95ecbb413165.svg" alt="Wakatime" />
-  </a>
-
 </div>
 
 <br/>
 
 <!-- ============ QUOTE ============ -->
 <div align="center">
-  <h3>✨</h3>
-  <h3><i>正解でも間違いでもそれが分かるのはどうせ未来</i></h3>
+  <h3><i>✨正解でも間違いでもそれが分かるのはどうせ未来✨</i></h3>
   <br/>
 </div>
 
